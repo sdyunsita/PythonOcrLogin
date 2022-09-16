@@ -1,0 +1,5 @@
+ddddocr
+pillow
+msedge-selenium-tools
+selenium==3.141
+pywin32
